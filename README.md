@@ -39,3 +39,41 @@ Functionality outlines the interactive features and how users are expected to in
 
 **Example:** A login page wireframe might show input fields for username and password, along with a “Login” button and a “Forgot Password?” link, illustrating user interactions without needing visual design.
 
+## Types of Wireframes
+
+Wireframes can generally be categorized into two types: **low-fidelity** and **high-fidelity**. Each serves a unique purpose in the design process.
+
+### Low-Fidelity Wireframes
+
+Low-fidelity (lo-fi) wireframes are basic sketches or digital mockups that represent the structure of a user interface without focusing on design details. They often use simple shapes like boxes and lines to outline placement of elements.
+
+**Use cases:**
+- Early brainstorming and idea exploration
+- Quick validation of layout and navigation structure
+- Collaboration and feedback during initial stages
+
+**Example:**
+A black-and-white sketch showing the general placement of a navigation bar, sidebar, and content area without styling or images.
+
+---
+
+### High-Fidelity Wireframes
+
+High-fidelity (hi-fi) wireframes are more detailed and closer to the final product in appearance and behavior. They may include actual images, fonts, icons, and interactive elements.
+
+**Use cases:**
+- Demonstrating near-final design for stakeholders
+- User testing with visual feedback
+- Preparing for development handoff
+
+**Example:**
+A pixel-perfect Figma design with real text content, color schemes, and clickable components.
+
+---
+
+## What Type of Wireframe Is This?
+
+![Wireframe Example](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f&t=XR5og5kMKM3Tdt7L-0)
+
+The above wireframe is a **High-Fidelity** wireframe.  
+It is categorized as such because it includes real UI elements, structured layout, styled components, and visually resembles the final product. High-fidelity wireframes help simulate the actual user experience and are ideal for usability testing and developer handoff.
