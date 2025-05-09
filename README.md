@@ -77,3 +77,46 @@ A pixel-perfect Figma design with real text content, color schemes, and clickabl
 
 The above wireframe is a **High-Fidelity** wireframe.  
 It is categorized as such because it includes real UI elements, structured layout, styled components, and visually resembles the final product. High-fidelity wireframes help simulate the actual user experience and are ideal for usability testing and developer handoff.
+
+## Wireframing Tools
+
+There are several tools available that designers and developers use to create wireframes. These tools help visualize layout structures, user interactions, and the overall flow of a product before development begins.
+
+Some popular wireframing tools include:
+
+### 1. **Figma**
+Figma is one of the most widely used tools for wireframing and interface design. It is a web-based design platform that supports real-time collaboration, allowing multiple users to work on the same project simultaneously.
+
+**Key Features:**
+- Cloud-based with live collaboration
+- Easy-to-use interface for wireframing and prototyping
+- Reusable design components and libraries
+- Version history and commenting tools
+- Works across platforms (Windows, macOS, Linux via browser)
+
+**Why Figma is Useful for Wireframing:**
+Figma makes it easy to move from low-fidelity wireframes to high-fidelity prototypes all within one environment. It allows for quick iterations, direct stakeholder feedback, and seamless handoff to developers. Because it runs in the browser, there's no need for installation, and you can collaborate with your team from anywhere.
+
+### 2. **Balsamiq**
+Balsamiq is a rapid wireframing tool with a sketch-style interface, great for creating low-fidelity wireframes.
+
+**Strengths:**
+- Drag-and-drop simplicity
+- Focuses purely on structure and user flow
+- Encourages early feedback
+
+### 3. **Adobe XD**
+Adobe XD is another powerful tool used for wireframing and interactive prototyping. It’s especially useful for teams working within the Adobe ecosystem.
+
+**Strengths:**
+- Vector-based design
+- Advanced prototyping and animation features
+- Integration with Adobe Creative Cloud
+
+### 4. **Sketch**
+Sketch is a macOS-based design tool that is widely used for UI/UX design. While not cloud-based like Figma, it offers robust plugin support and vector editing capabilities.
+
+**Strengths:**
+- Lightweight and fast
+- Great for interface design and reusable symbols
+- Extensive third-party plugin ecosystem
