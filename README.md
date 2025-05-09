@@ -159,3 +159,33 @@ Detailed wireframes — especially high-fidelity ones — make it easier for dev
 
 By integrating wireframing into the development process, teams create stronger products with fewer revisions, clearer communication, and a smoother path from idea to deployment.
 
+## Wireframing in Practice
+
+Wireframing becomes especially valuable when designing complex user experiences that need to work reliably in different environments. One real-world example comes from the **Free Tech Education Mobile App** project, developed during the ALX Professional Foundations program. The goal of the app was to provide access to tech learning resources, even in areas with limited internet connectivity — making it an offline-first solution.
+
+### Real-World Scenario: Offline Learning Experience
+
+During the wireframing phase, we mapped out the user journey for accessing courses, downloading lessons, and resuming offline study. The initial wireframe had users tapping a course, selecting a lesson, and immediately starting playback. At first glance, the flow seemed simple and efficient.
+
+However, through review and feedback sessions, we identified a **critical usability flaw**:  
+There was no clear indication of which lessons were available offline and which required an internet connection. This confusion could result in frustration for users in low-connectivity regions — exactly the opposite of our mission.
+
+### How the Issue Was Resolved
+
+Using wireframes, we restructured the lesson screens to include:
+- **Download icons** next to each lesson
+- A toggle to filter between "Downloaded" and "All" lessons
+- Status indicators showing download progress or errors
+
+These adjustments were made entirely at the wireframing stage, preventing wasted development effort and aligning the app with real user needs.
+
+### Impact on the Final Product
+
+- **Improved Clarity:** Users could easily see which lessons were accessible offline.
+- **Higher Engagement:** Offline access became more intuitive, leading to increased course completion rates.
+- **Better Developer Handoff:** With updated wireframes, developers clearly understood what to build, reducing back-and-forth.
+
+### Conclusion
+
+This scenario demonstrates the **practical power of wireframing** — not just as a design tool, but as a method for solving real-world problems early. By catching usability issues before a single line of code was written, we saved time, improved the user experience, and delivered a more impactful product.  
+Wireframing ensured that the design remained **user-centered**, even under complex offline-first constraints.
