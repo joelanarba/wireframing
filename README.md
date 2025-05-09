@@ -73,7 +73,7 @@ A pixel-perfect Figma design with real text content, color schemes, and clickabl
 
 ## What Type of Wireframe Is This?
 
-![Wireframe Example](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f&t=XR5og5kMKM3Tdt7L-0)
+![Wireframe Example](Detail.png)
 
 The above wireframe is a **High-Fidelity** wireframe.  
 It is categorized as such because it includes real UI elements, structured layout, styled components, and visually resembles the final product. High-fidelity wireframes help simulate the actual user experience and are ideal for usability testing and developer handoff.
